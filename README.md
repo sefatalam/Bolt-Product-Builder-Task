@@ -36,8 +36,6 @@ learning.
   already exist rather than inventing new ones.
 - `examples/` — real outputs from real sources. Start here if you want
   to see what the system actually produces.
-- `examples/comparison.md` — the same source run through vanilla
-  "summarize this" vs. this system, side by side.
 
 ## How To Set It Up
 
